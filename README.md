@@ -1,0 +1,2 @@
+# cuadroMando
+Cuadro de mando
